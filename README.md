@@ -1,4 +1,4 @@
-# reactive-bamboo
+# reactive-bamboo [![Build Status](https://travis-ci.org/defunctzombie/reactive-bamboo.png)](https://travis-ci.org/defunctzombie/reactive-bamboo)
 
 [reactive](https://github.com/component/reactive) adapter for [bamboo](https://github.com/defunctzombie/bamboo) to update the reactive view with real-time bamboo model changes.
 
