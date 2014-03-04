@@ -1,0 +1,15 @@
+{
+  "name": "reactive-bamboo",
+  "version": "0.0.1",
+  "description": "reactive adapter for bamboo models",
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "scripts": {
+    "test": "zuul -- test/*.js",
+    "test-local": "zuul --local -- test/*.js"
+  },
+  "devDependencies": {
+    "bamboo": "0.0.7",
+    "zuul": "~1.5.4"
+  },
+  "License": "MIT"
+}
